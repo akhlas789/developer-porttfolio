@@ -60,9 +60,9 @@ main section {
     padding-top: 10px;
     padding-left: 200px;
     padding-right: 50px;
-    background-image: url(../images/header_bg.png);
+    background-image: url(../images/header_bg.png),url('../images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 }
 
 .section-title {
